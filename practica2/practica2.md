@@ -105,4 +105,5 @@ La part final del codi serveix per, quan l'interruptor porti  60 segons sense se
 ```
 Per poder tornar a utilitzar el programa caldrà prèmer el botó RESET de la ESP32.
 
-![videop2](videop2.mp4)
+### Video de demostració
+https://drive.google.com/file/d/1ldcjBHCgpPDJTHSC_eYWlASmkk0QzIpe/view?usp=sharing
